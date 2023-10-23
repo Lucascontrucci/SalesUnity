@@ -35,4 +35,9 @@ Aqui está o escopo que delineamos para as primeiras ideias.
 
 ---
 
+Link do pitch: https://youtu.be/BlZwI_P5H_g
+
+
+---
+
 Link para API que será implementada: https://github.com/AdurraIS/CHALLENGE_API/tree/main
