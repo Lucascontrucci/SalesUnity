@@ -62,13 +62,13 @@ Garantia de que a aplicação seja acessível e fácil de usar para uma ampla ga
 
 ### Tecnologias utilizadas
 
-Visual Studio Code
-IntelliJ IDEA - Community Edition
-JDK – v17
-Gradle – v8.4
-Oracle SQL Developer
-Git – v2.43.0
-Chrome – Snack Expo
+Visual Studio Code <br>
+IntelliJ IDEA - Community Edition <br>
+JDK – v17 <br>
+Gradle – v8.4 <br>
+Oracle SQL Developer <br>
+Git – v2.43.0 <br>
+Chrome – Snack Expo <br>
  
 ---
 
